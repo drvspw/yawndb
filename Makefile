@@ -1,6 +1,6 @@
 .PHONY: all rel deps test apitest compile
 
-REBAR=rebar
+REBAR=rebar3
 
 all: deps compile
 
